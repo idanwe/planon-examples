@@ -1,0 +1,2 @@
+# Production runtime requirements
+-r requirements-common.txt

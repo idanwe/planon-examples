@@ -1,0 +1,3 @@
+# Contains all requirements for develpment
+-r requirements-common.txt
+pylint

@@ -1,0 +1,3 @@
+# Contains all requirements
+# Uninstall all pip3 modules - pip3 freeze | xargs pip3 uninstall -y
+zeep

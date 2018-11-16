@@ -1,0 +1,2 @@
+# Mirrors requirements/requirements-production.txt
+-r requirements/requirements-production.txt
