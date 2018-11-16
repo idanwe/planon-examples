@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/macos,python
-# Edit at https://www.gitignore.io/?templates=macos,python
+# Created by https://www.gitignore.io/api/macos,python,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=macos,python,visualstudiocode
 
 ### macOS ###
 # General
@@ -161,4 +161,15 @@ dmypy.json
 pyvenv.cfg
 pip-selfcheck.json
 
-# End of https://www.gitignore.io/api/macos,python
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
+# End of https://www.gitignore.io/api/macos,python,visualstudiocode
